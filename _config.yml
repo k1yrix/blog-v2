@@ -25,11 +25,11 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://k1yrix.moe"
 
-github:
-  username: k1yrix # change to your GitHub username
+# github:
+#   username: k1yrix # change to your GitHub username
 
-twitter:
-  username: k1yrix # change to your Twitter username
+# twitter:
+#   username: k1yrix # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,8 +39,8 @@ social:
   fediverse_handle: "@k1yrix@mastodon.social" # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/k1yrix # change to your GitHub homepage
+    # - https://bsky.app/profile/k1yrix.moe
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -161,7 +161,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://k1yrix.moe"
+# baseurl: "https://k1yrix.moe"
 
 # ------------ The following options are not recommended to be modified ------------------
 
