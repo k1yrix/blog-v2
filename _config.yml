@@ -132,7 +132,7 @@ comments:
   giscus:
     repo: k1yrix/blog # <gh-username>/<repo>
     repo_id: R_kgDON1o5Fw
-    category: "post comments"
+    category: comments
     category_id: DIC_kwDON1o5F84DFCWS
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
