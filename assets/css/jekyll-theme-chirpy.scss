@@ -47,6 +47,18 @@
 	text-decoration:none
 }
 
+#sidebar ul li.nav-item a.nav-link span{
+    text-transform: lowercase;
+}
+
+#panel-wrapper .panel-heading{
+    text-transform: lowercase;
+}
+
+#topbar #breadcrumb{
+    text-transform: lowercase;
+}
+
 :root[data-bs-theme=dark] #archives li:nth-child(odd){
 	background-image:linear-gradient(to left, rgb(30, 30, 46), rgb(49, 50, 68), rgb(69, 71, 90), rgb(49, 50, 68), rgb(30, 30, 46))
 }
@@ -72,5 +84,13 @@
     h1, h2, h3, h4, h5, h6 {
         font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif;
         font-weight: bold;
+    };
+
+    .form-control{
+        text-transform: lowercase;
+    }
+
+    footer{
+        text-transform: lowercase;
     }
 }
