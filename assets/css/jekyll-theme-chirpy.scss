@@ -48,6 +48,12 @@
 	background-image:linear-gradient(to left, rgb(30, 30, 46), rgb(49, 50, 68), rgb(69, 71, 90), rgb(49, 50, 68), rgb(30, 30, 46))
 }
 
-// .btn.btn-outline-primary:not(.disabled):hover{
-// 	border-color:#007bff !important
-// }
+:root{
+    .btn.btn-outline-primary:not(.disabled):hover{
+	    border-color:#b4befe !important
+    }
+
+    // .btn-outline-primary{
+    //     --bs-btn-hover-bg: #b4befe
+    // }
+}
