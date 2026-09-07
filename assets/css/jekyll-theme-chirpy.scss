@@ -14,6 +14,9 @@
 
 /* append your custom style below */
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
 :root[data-bs-theme=dark]{
     --main-bg: rgb(30, 30, 46);
     --sidebar-bg: rgb(24, 24, 37);
@@ -51,11 +54,17 @@
 :root{
     .btn.btn-outline-primary:not(.disabled):hover{
 	    border-color:#b4befe !important
-    }
+    };
 
     // .btn-outline-primary{
     //     --bs-btn-hover-bg: #b4befe
     // }
 
-    font-family:
+    body {
+        font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif
+    };
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif
+    }
 }
