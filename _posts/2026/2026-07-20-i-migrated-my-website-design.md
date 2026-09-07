@@ -7,10 +7,6 @@ tags: [website, updates, design]
 description: I basically started my website over. here's why and what I decided to use.
 ---
 
-**this blog post was updated on 2026-09-06 @ 23:22 EDT (UTC-4)**
-
----
-
 yep. you read the title right.
 
 you've probably seen something different from the last time you visited my website. a lot different. that's right, new fonts, new design, new everything. and it wasn't an illusion.
