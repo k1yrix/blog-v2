@@ -1,6 +1,6 @@
 ---
 title: I am pissed.
-date: 2025-02-07 09:21:00 -0400
+date: 2025-02-07 09:21 -0400
 categories: [opinions]
 tags: [scr, rant, stepford county railway]
 description: something happened recently in the stepford county railway community, and I discuss what happened and how it pissed me off.
