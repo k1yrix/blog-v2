@@ -1,7 +1,7 @@
 ---
 title: I almost felt like resigning from the SCR Wiki
 date: 2025-02-07 15:36 -0400
-last_modified_at: 2025-02-08 16:14 -0400
+last_modified_at: 2026-09-07 00:02 -0400
 categories: [opinions]
 tags: [scr, rant, stepford county railway]
 description: I discuss the state of stepford county railway and why I almost wanted to resign my post from SCRW (let alone, leave the community as a whole)
@@ -56,7 +56,7 @@ that is all I have to say, so y'all have a nice day now ya'hear?
 
 I still think that this rant shouldn't have been created in the first place, but I would like to take the oppertunity to expand this a little longer to give some other thoughts.
 
-after someone posted a video on a discord server called `"The 5 WORST Mistakes SCR EVER Made"` by `PotatoLemon` (the video in context: https://www.youtube.com/watch?v=xpY69ZbpucY), I want to edit some of my thoughts on what needs to change on the leadership of things.
+after someone posted a video on a discord server called `"The 5 WORST Mistakes SCR EVER Made"` by `PotatoLemon` (the video in context: <https://www.youtube.com/watch?v=xpY69ZbpucY>), I want to edit some of my thoughts on what needs to change on the leadership of things.
 
 ### what am I trying to say here
 basically, I do agree with what potatolemon is saying here. at 20:34 in the video, people want toby to resign, but potatolemon suggests the following instead of toby resigning:
