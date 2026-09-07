@@ -161,7 +161,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://k1yrix.moe/blog-v2"
+baseurl: "/blog-v2"
 
 # ------------ The following options are not recommended to be modified ------------------
 
