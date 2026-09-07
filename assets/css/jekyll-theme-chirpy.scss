@@ -60,11 +60,17 @@
     //     --bs-btn-hover-bg: #b4befe
     // }
 
+    header .post-desc{
+        font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif;
+        // font-weight: normal;
+    };
+
     body {
         font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif
     };
 
     h1, h2, h3, h4, h5, h6 {
-        font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif
+        font-family: "Roboto Mono", ui-sans-serif, system-ui, sans-serif;
+        font-weight: bold;
     }
 }
