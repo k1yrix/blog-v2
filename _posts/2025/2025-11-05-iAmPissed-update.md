@@ -8,11 +8,11 @@ description: an update on the last blog post I made, showing some interesting ev
 
 ## I got an update.
 
-I have an update on a blog post that I made many back in april. the blog post in question was the ["I am pissed"](b1) post where I rant on how a small content creator leveraged (in my belief) the use of my highly-accurate redrawn metro logo, specifically designed for the SCR Wiki, in order to create fake leaks. while I didn't pursue action, considering my knowledge on copyright law, I was still really angry over this regardless. I have gotten over it, but now this topic was brought back to my attention recently.
+I have an update on a blog post that I made many back in april. the blog post in question was the ["I am pissed"](../iAmPissed) post where I rant on how a small content creator leveraged (in my belief) the use of my highly-accurate redrawn metro logo, specifically designed for the SCR Wiki, in order to create fake leaks. while I didn't pursue action, considering my knowledge on copyright law, I was still really angry over this regardless. I have gotten over it, but now this topic was brought back to my attention recently.
 
 ## what's going on?
 
-an anonymous user on [my bluesky](bsky1) (go follow btw) sent me a private message. apparently stevennn was not the one behind the fake leaks. (*and because of that, I would like to sincerely apologize for the accusation made in the previous blog post*) it turned out that two random guys decide to make the fake leaks (I suspect using all the highest quality assets possible through a mix of references, leaked models, and the SCR Wiki) and then sent the fake leaks to stevennn, in which stevennn believed in the leaks to make content out of it. they were allegedly also the ones behind the great wharton plaza hoax leaks as well.
+an anonymous user on [my bluesky](https://bsky.app/profile/k1yrix.moe) (go follow btw) sent me a private message. apparently stevennn was not the one behind the fake leaks. (*and because of that, I would like to sincerely apologize for the accusation made in the previous blog post*) it turned out that two random guys decide to make the fake leaks (I suspect using all the highest quality assets possible through a mix of references, leaked models, and the SCR Wiki) and then sent the fake leaks to stevennn, in which stevennn believed in the leaks to make content out of it. they were allegedly also the ones behind the great wharton plaza hoax leaks as well.
 
 ## the evidence
 
@@ -37,6 +37,3 @@ an anonymous user on [my bluesky](bsky1) (go follow btw) sent me a private messa
 <font size="1">figure B4: one of the guys showing a fake leak featuring the Class 756. (This was a bonus provided by the whistleblower. This was not released as part of the fake leaks)</font>
 <br>
 regardless, these are the most believable fake leaks that the community has probably seen and probably would've gotten away with it if it wasn't for those very noticable errors in those fake leaks. at least these new evidence definitely shows that they were infact staged.
-
-[b1]: ../iAmPissed_2025-04-19/
-[bsky1]: https://k1yrix.and.cat/

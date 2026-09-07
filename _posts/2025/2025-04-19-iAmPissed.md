@@ -55,5 +55,5 @@ you have read until the end, horray!
 
 now that you have read all the way down, here are some spoilers for you:<br>
 if you want to know the context that I was talking about in this blog, these are what I was talking about:
-- https://www.youtube.com/watch?v=TwcFVXSu0B4
-- https://www.reddit.com/r/stepfordcountyrailway/comments/1k30rol/new_metro_leaks_youtube_video/
+- <https://www.youtube.com/watch?v=TwcFVXSu0B4>
+- <https://www.reddit.com/r/stepfordcountyrailway/comments/1k30rol/new_metro_leaks_youtube_video/>
